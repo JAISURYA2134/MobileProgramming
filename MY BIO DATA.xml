@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#9A54D8"
+    android:orientation="vertical"
+    android:rotationX="-360"
+    android:textAlignment="center"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textView13"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="20dp"
+        android:background="#79D6A3"
+        android:rotationX="-360"
+        android:text="𝕭𝖎𝖔-𝕯𝖆𝖙𝖆"
+        android:textAlignment="center"
+        android:textColor="#BF360C"
+        android:textSize="34sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="match_parent"
+        android:layout_height="268dp"
+        app:srcCompat="@drawable/rock" />
+
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="match_parent"
+        android:layout_height="41dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="20dp"
+        android:background="#B8E0E4"
+        android:text="𝕹𝖆𝖒𝖊 : 𝕵𝖆𝖎𝖘𝖚𝖗𝖞𝖆"
+        android:textAlignment="center"
+        android:textColor="#E91E63"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView14"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="20dp"
+        android:background="#4CADB6"
+        android:text="𝕯𝖆𝖙𝖊.𝖔𝖋.𝕭𝖎𝖗𝖙𝖍 : 25/12/2003"
+        android:textAlignment="center"
+        android:textColor="#880E4F"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="43dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="20dp"
+        android:background="#63CDD8"
+        android:text="𝕭𝖗𝖆𝖓𝖈𝖍 : 𝕭.𝕾𝕮 𝕬𝕴 𝕯𝕬"
+        android:textAlignment="center"
+        android:textColor="#C2185B"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView15"
+        android:layout_width="match_parent"
+        android:layout_height="41dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="20dp"
+        android:background="#46E7FA"
+        android:text="𝖀𝖓𝖎𝖖𝖚𝖊𝖊_𝕴𝕯 : 𝕰5221005"
+        android:textAlignment="center"
+        android:textColor="#D81B60"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView16"
+        android:layout_width="match_parent"
+        android:layout_height="73dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="20dp"
+        android:background="#46A7B1"
+        android:text="𝕰-𝕸𝖆𝖎𝖑 : 𝖘𝖚𝖗𝖞𝖆@𝖌𝖒𝖆𝖎𝖑.𝖈𝖔𝖒"
+        android:textAlignment="center"
+        android:textColor="#880E4F"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+</LinearLayout>
